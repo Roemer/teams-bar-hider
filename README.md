@@ -1,0 +1,1 @@
+# teams-bar-hider
